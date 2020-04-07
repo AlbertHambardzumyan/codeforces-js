@@ -8,9 +8,8 @@
   const input = readline().toLowerCase()
 
   var result = ''
-  var temp
   for (var i = 0; i < input.length; i++) {
-    temp = input.charAt(i)
+    var temp = input.charAt(i)
     if (!(temp === 'a' || temp === 'o' || temp === 'y' || temp === 'e' || temp === 'u' || temp === 'i'))
       result += '.' + temp
   }
