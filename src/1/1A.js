@@ -1,7 +1,8 @@
 /**
  * @author Albert Hambardzumyan
  * @description Theatre Square.
- *  Reference http://codeforces.com/problemset/problem/1/A
+ *  Reference: http://codeforces.com/problemset/problem/1/A
+ *  Tags: math, 1300
  */
 (function () {
   const input = readline().split(' ')

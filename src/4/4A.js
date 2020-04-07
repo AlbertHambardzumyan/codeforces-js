@@ -1,7 +1,8 @@
 /**
  * @author Albert Hambardzumyan
  * @description Watermelon.
- *  Reference http://codeforces.com/problemset/problem/4/A
+ *  Reference: http://codeforces.com/problemset/problem/4/A
+ *  Tags: brute force, math, 1200
  */
 (function () {
   const weight = readline()
