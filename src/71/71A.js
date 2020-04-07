@@ -5,7 +5,7 @@
  *  Tags: strings, 800
  */
 (function () {
-  const iterations = parseInt(readline())
+  const iterations = readline()
 
   for (var i = 0; i < iterations; i++) {
     var input = readline()
